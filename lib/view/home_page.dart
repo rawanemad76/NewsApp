@@ -45,7 +45,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Flutter News",style: TextStyle(color: Colors.amber),),
+        title: Text("News App",style: TextStyle(color: Colors.amber),),
         centerTitle: true,
         elevation: 0.0,
         backgroundColor: Colors.transparent,
